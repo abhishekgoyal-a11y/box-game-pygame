@@ -1,4 +1,4 @@
-# box-game-pygame
+# Box game
 Simple box game, includes animation, sounds, images
 Languages:- Python
 Framework:- Pygame

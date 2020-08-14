@@ -1,5 +1,9 @@
 # box-game-pygame
-This is a small box game ,i have used python language for making this game.
-library used here is pygame,math,random.
+Simple box game, includes animation, sounds, images
+Languages:- Python
+Framework:- Pygame
+Library:- os,time,math etc..
+
+
 
 

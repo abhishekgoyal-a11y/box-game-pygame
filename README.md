@@ -40,3 +40,7 @@ Framework:- Pygame
 
 Library:- random,math
 
+# Future Work
+1. Add About Screen
+2. Add Bullets
+

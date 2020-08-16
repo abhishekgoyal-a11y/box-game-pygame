@@ -38,5 +38,5 @@ Languages:- Python
 
 Framework:- Pygame
 
-Library:- os,time,math etc..
+Library:- random,math
 
